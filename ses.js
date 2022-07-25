@@ -1,1 +1,3 @@
-const saluda = ()=>console.log('it works morty!');
+function saluda(){
+  console.log('it works morty!')
+};
